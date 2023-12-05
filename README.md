@@ -11,7 +11,7 @@
 - Database Manipulation with SQL (hw4) 
     - This project uses the languages I have learned this semester to manipulate databases using SQL queries.
 - Sakila Database Manipulation with SQL (hw8) (test2) 
-    - This project manipulates data within the Sakila database
+    - This project manipulates data within the Sakila database, which is an open source database provided to practice working with databases (https://dev.mysql.com/doc/sakila/en/)
     
 
 
